@@ -1,7 +1,7 @@
 # Rust database
 
 This repository implements a database with Rust using 2 different databases, Mongo and SQLite.
-
+[Readme Brazil (pt-br)](https://github.com/LeviAckr/rust_DB/blob/main/pt.md)
 
 
 ## How to use
